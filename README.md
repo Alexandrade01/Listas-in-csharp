@@ -1,2 +1,2 @@
 # Listas-in-csharp
-Funcoes de listas usando c#
+Funções de listas usando c#
