@@ -20,7 +20,7 @@ namespace TreinoLista
         static void Main(string[] args)
         { // criação de lista -- pode se usar Add para adicionar
             List<string> Lista = new List<string>() { "Joao", "Pedro", "Lucas", "Barnabé", "Tiago", "Judas", "Tomé" };
-           
+           // methods
             // ordem alfabetica
            // Lista.Sort();
             //Listagem(Lista);
